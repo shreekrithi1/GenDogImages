@@ -32,11 +32,3 @@ Each epoch, the generator gets smarter — producing more detailed and lifelike 
 
 ---
 
-## ⚙️ **Installation**
-
-Clone this repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/generative-dog-images.git
-cd generative-dog-images
-pip install -r requirements.txt
